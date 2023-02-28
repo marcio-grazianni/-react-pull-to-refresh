@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-simple-pull-to-refresh/static/css/main.0388a0eb.css",
+    "main.js": "/react-simple-pull-to-refresh/static/js/main.7c3992f0.js",
+    "index.html": "/react-simple-pull-to-refresh/index.html",
+    "main.0388a0eb.css.map": "/react-simple-pull-to-refresh/static/css/main.0388a0eb.css.map",
+    "main.7c3992f0.js.map": "/react-simple-pull-to-refresh/static/js/main.7c3992f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0388a0eb.css",
+    "static/js/main.7c3992f0.js"
+  ]
+}
